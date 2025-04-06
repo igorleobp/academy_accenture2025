@@ -8,9 +8,10 @@ git clone https://github.com/igorleobp/academy_accenture2025.git
 cd academy_accenture2025
 
 2. Instale as dependências
+
 npm install
 
-3. Execute os testes
+4. Execute os testes
 
 npx cypress open
 
