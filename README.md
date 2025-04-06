@@ -5,6 +5,7 @@ Este projeto tem como objetivo a automação de testes utilizando o framework Cy
 1. Clone o repositório
 
 git clone https://github.com/igorleobp/academy_accenture2025.git
+
 cd academy_accenture2025
 
 2. Instale as dependências
